@@ -22,4 +22,4 @@ Tools for running many Claude Code / Codex sessions in parallel. Currently build
 - **[fanout](https://github.com/c10dev/fanout)** — self-hosted uploader that posts one video to YouTube, TikTok, Reels, X, Bluesky, Mastodon and PeerTube via official APIs.
 - **[tennis-sim](https://github.com/c10dev/tennis-sim)** — tennis match engine where points come from tactics, execution error and ball flight.
 
-[X @chaehybuilds](https://x.com/chaehybuilds)
+[X @chaehybuilds](https://x.com/c10xxxxx)
